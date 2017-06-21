@@ -1,0 +1,37 @@
+{
+  "name": "learnpedia-api",
+  "version": "1.0.0",
+  "description": "Restful learnpedia-api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.10.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustocmleal/learnpedia-api.git"
+  },
+  "keywords": [
+    "Restful",
+    "api",
+    "learnpedia"
+  ],
+  "author": "Augusto Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustocmleal/learnpedia-api/issues"
+  },
+  "homepage": "https://github.com/augustocmleal/learnpedia-api#readme",
+  "devDependencies" : {
+  	"nodemon" : "^1.11.0"
+  },
+  "dependencies" : {
+  	"express" : "^4.14.0"
+  }
+}
